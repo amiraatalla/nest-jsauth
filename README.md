@@ -1,1 +1,1 @@
-# nest-jsauth
+# nestjs-auth
